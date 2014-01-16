@@ -1,0 +1,5 @@
+C:\Users\Imri\Documents\Visual Studio 2012\Projects\RealTimeMonitoring\RealTimeMonitoring\bin\Debug\RealTimeMonitoring.dll
+C:\Users\Imri\Documents\Visual Studio 2012\Projects\RealTimeMonitoring\RealTimeMonitoring\bin\Debug\RealTimeMonitoring.pdb
+C:\Users\Imri\Documents\Visual Studio 2012\Projects\RealTimeMonitoring\RealTimeMonitoring\obj\Debug\RealTimeMonitoring.csprojResolveAssemblyReference.cache
+C:\Users\Imri\Documents\Visual Studio 2012\Projects\RealTimeMonitoring\RealTimeMonitoring\obj\Debug\RealTimeMonitoring.dll
+C:\Users\Imri\Documents\Visual Studio 2012\Projects\RealTimeMonitoring\RealTimeMonitoring\obj\Debug\RealTimeMonitoring.pdb

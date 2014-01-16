@@ -1,0 +1,83 @@
+C:\Users\Imri\Documents\Visual Studio 2012\Projects\RealTimeMonitoring\MvcApplication1\bin\MvcApplication1.dll
+C:\Users\Imri\Documents\Visual Studio 2012\Projects\RealTimeMonitoring\MvcApplication1\bin\MvcApplication1.pdb
+C:\Users\Imri\Documents\Visual Studio 2012\Projects\RealTimeMonitoring\MvcApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Imri\Documents\Visual Studio 2012\Projects\RealTimeMonitoring\MvcApplication1\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Imri\Documents\Visual Studio 2012\Projects\RealTimeMonitoring\MvcApplication1\bin\Newtonsoft.Json.dll
+C:\Users\Imri\Documents\Visual Studio 2012\Projects\RealTimeMonitoring\MvcApplication1\bin\System.Net.Http.Formatting.dll
+C:\Users\Imri\Documents\Visual Studio 2012\Projects\RealTimeMonitoring\MvcApplication1\bin\System.Web.Helpers.dll
+C:\Users\Imri\Documents\Visual Studio 2012\Projects\RealTimeMonitoring\MvcApplication1\bin\System.Web.Http.dll
+C:\Users\Imri\Documents\Visual Studio 2012\Projects\RealTimeMonitoring\MvcApplication1\bin\System.Web.Http.WebHost.dll
+C:\Users\Imri\Documents\Visual Studio 2012\Projects\RealTimeMonitoring\MvcApplication1\bin\System.Web.Mvc.dll
+C:\Users\Imri\Documents\Visual Studio 2012\Projects\RealTimeMonitoring\MvcApplication1\bin\System.Web.Razor.dll
+C:\Users\Imri\Documents\Visual Studio 2012\Projects\RealTimeMonitoring\MvcApplication1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Imri\Documents\Visual Studio 2012\Projects\RealTimeMonitoring\MvcApplication1\bin\System.Web.WebPages.dll
+C:\Users\Imri\Documents\Visual Studio 2012\Projects\RealTimeMonitoring\MvcApplication1\bin\System.Web.WebPages.Razor.dll
+C:\Users\Imri\Documents\Visual Studio 2012\Projects\RealTimeMonitoring\MvcApplication1\bin\Newtonsoft.Json.xml
+C:\Users\Imri\Documents\Visual Studio 2012\Projects\RealTimeMonitoring\MvcApplication1\bin\System.Net.Http.Formatting.xml
+C:\Users\Imri\Documents\Visual Studio 2012\Projects\RealTimeMonitoring\MvcApplication1\bin\System.Web.Helpers.xml
+C:\Users\Imri\Documents\Visual Studio 2012\Projects\RealTimeMonitoring\MvcApplication1\bin\System.Web.Http.xml
+C:\Users\Imri\Documents\Visual Studio 2012\Projects\RealTimeMonitoring\MvcApplication1\bin\System.Web.Http.WebHost.xml
+C:\Users\Imri\Documents\Visual Studio 2012\Projects\RealTimeMonitoring\MvcApplication1\bin\System.Web.Mvc.xml
+C:\Users\Imri\Documents\Visual Studio 2012\Projects\RealTimeMonitoring\MvcApplication1\bin\System.Web.Razor.xml
+C:\Users\Imri\Documents\Visual Studio 2012\Projects\RealTimeMonitoring\MvcApplication1\bin\System.Web.WebPages.xml
+C:\Users\Imri\Documents\Visual Studio 2012\Projects\RealTimeMonitoring\MvcApplication1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Imri\Documents\Visual Studio 2012\Projects\RealTimeMonitoring\MvcApplication1\bin\System.Web.WebPages.Razor.xml
+C:\Users\Imri\Documents\Visual Studio 2012\Projects\RealTimeMonitoring\MvcApplication1\obj\Debug\RealTimeMonitoring.csprojResolveAssemblyReference.cache
+C:\Users\Imri\Documents\Visual Studio 2012\Projects\RealTimeMonitoring\MvcApplication1\obj\Debug\MvcApplication1.dll
+C:\Users\Imri\Documents\Visual Studio 2012\Projects\RealTimeMonitoring\MvcApplication1\obj\Debug\MvcApplication1.pdb
+C:\Users\imri\Downloads\RealTimeMonitoring\RealTimeMonitoring\MvcApplication1\bin\MvcApplication1.dll.config
+C:\Users\imri\Downloads\RealTimeMonitoring\RealTimeMonitoring\MvcApplication1\bin\MvcApplication1.dll
+C:\Users\imri\Downloads\RealTimeMonitoring\RealTimeMonitoring\MvcApplication1\bin\MvcApplication1.pdb
+C:\Users\imri\Downloads\RealTimeMonitoring\RealTimeMonitoring\MvcApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\imri\Downloads\RealTimeMonitoring\RealTimeMonitoring\MvcApplication1\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\imri\Downloads\RealTimeMonitoring\RealTimeMonitoring\MvcApplication1\bin\Newtonsoft.Json.dll
+C:\Users\imri\Downloads\RealTimeMonitoring\RealTimeMonitoring\MvcApplication1\bin\System.Net.Http.Formatting.dll
+C:\Users\imri\Downloads\RealTimeMonitoring\RealTimeMonitoring\MvcApplication1\bin\System.Web.Helpers.dll
+C:\Users\imri\Downloads\RealTimeMonitoring\RealTimeMonitoring\MvcApplication1\bin\System.Web.Http.dll
+C:\Users\imri\Downloads\RealTimeMonitoring\RealTimeMonitoring\MvcApplication1\bin\System.Web.Http.WebHost.dll
+C:\Users\imri\Downloads\RealTimeMonitoring\RealTimeMonitoring\MvcApplication1\bin\System.Web.Mvc.dll
+C:\Users\imri\Downloads\RealTimeMonitoring\RealTimeMonitoring\MvcApplication1\bin\System.Web.Razor.dll
+C:\Users\imri\Downloads\RealTimeMonitoring\RealTimeMonitoring\MvcApplication1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\imri\Downloads\RealTimeMonitoring\RealTimeMonitoring\MvcApplication1\bin\System.Web.WebPages.dll
+C:\Users\imri\Downloads\RealTimeMonitoring\RealTimeMonitoring\MvcApplication1\bin\System.Web.WebPages.Razor.dll
+C:\Users\imri\Downloads\RealTimeMonitoring\RealTimeMonitoring\MvcApplication1\bin\Newtonsoft.Json.xml
+C:\Users\imri\Downloads\RealTimeMonitoring\RealTimeMonitoring\MvcApplication1\bin\System.Net.Http.Formatting.xml
+C:\Users\imri\Downloads\RealTimeMonitoring\RealTimeMonitoring\MvcApplication1\bin\System.Web.Helpers.xml
+C:\Users\imri\Downloads\RealTimeMonitoring\RealTimeMonitoring\MvcApplication1\bin\System.Web.Http.xml
+C:\Users\imri\Downloads\RealTimeMonitoring\RealTimeMonitoring\MvcApplication1\bin\System.Web.Http.WebHost.xml
+C:\Users\imri\Downloads\RealTimeMonitoring\RealTimeMonitoring\MvcApplication1\bin\System.Web.Mvc.xml
+C:\Users\imri\Downloads\RealTimeMonitoring\RealTimeMonitoring\MvcApplication1\bin\System.Web.Razor.xml
+C:\Users\imri\Downloads\RealTimeMonitoring\RealTimeMonitoring\MvcApplication1\bin\System.Web.WebPages.xml
+C:\Users\imri\Downloads\RealTimeMonitoring\RealTimeMonitoring\MvcApplication1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\imri\Downloads\RealTimeMonitoring\RealTimeMonitoring\MvcApplication1\bin\System.Web.WebPages.Razor.xml
+C:\Users\imri\Downloads\RealTimeMonitoring\RealTimeMonitoring\MvcApplication1\obj\Debug\RealTimeMonitoring.csprojResolveAssemblyReference.cache
+C:\Users\imri\Downloads\RealTimeMonitoring\RealTimeMonitoring\MvcApplication1\obj\Debug\MvcApplication1.dll
+C:\Users\imri\Downloads\RealTimeMonitoring\RealTimeMonitoring\MvcApplication1\obj\Debug\MvcApplication1.pdb
+C:\Users\imri\Downloads\RTM\RTM\MvcApplication1\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\imri\Downloads\RTM\RTM\MvcApplication1\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\imri\Downloads\RTM\RTM\MvcApplication1\bin\Newtonsoft.Json.dll
+C:\Users\imri\Downloads\RTM\RTM\MvcApplication1\bin\System.Net.Http.Formatting.dll
+C:\Users\imri\Downloads\RTM\RTM\MvcApplication1\bin\System.Web.Helpers.dll
+C:\Users\imri\Downloads\RTM\RTM\MvcApplication1\bin\System.Web.Http.dll
+C:\Users\imri\Downloads\RTM\RTM\MvcApplication1\bin\System.Web.Http.WebHost.dll
+C:\Users\imri\Downloads\RTM\RTM\MvcApplication1\bin\System.Web.Mvc.dll
+C:\Users\imri\Downloads\RTM\RTM\MvcApplication1\bin\System.Web.Razor.dll
+C:\Users\imri\Downloads\RTM\RTM\MvcApplication1\bin\System.Web.WebPages.Deployment.dll
+C:\Users\imri\Downloads\RTM\RTM\MvcApplication1\bin\System.Web.WebPages.dll
+C:\Users\imri\Downloads\RTM\RTM\MvcApplication1\bin\System.Web.WebPages.Razor.dll
+C:\Users\imri\Downloads\RTM\RTM\MvcApplication1\bin\Newtonsoft.Json.xml
+C:\Users\imri\Downloads\RTM\RTM\MvcApplication1\bin\System.Net.Http.Formatting.xml
+C:\Users\imri\Downloads\RTM\RTM\MvcApplication1\bin\System.Web.Helpers.xml
+C:\Users\imri\Downloads\RTM\RTM\MvcApplication1\bin\System.Web.Http.xml
+C:\Users\imri\Downloads\RTM\RTM\MvcApplication1\bin\System.Web.Http.WebHost.xml
+C:\Users\imri\Downloads\RTM\RTM\MvcApplication1\bin\System.Web.Mvc.xml
+C:\Users\imri\Downloads\RTM\RTM\MvcApplication1\bin\System.Web.Razor.xml
+C:\Users\imri\Downloads\RTM\RTM\MvcApplication1\bin\System.Web.WebPages.xml
+C:\Users\imri\Downloads\RTM\RTM\MvcApplication1\bin\System.Web.WebPages.Deployment.xml
+C:\Users\imri\Downloads\RTM\RTM\MvcApplication1\bin\System.Web.WebPages.Razor.xml
+C:\Users\imri\Downloads\RTM\RTM\MvcApplication1\obj\Debug\RealTimeMonitoring.csprojResolveAssemblyReference.cache
+C:\Users\imri\Downloads\RTM\RTM\MvcApplication1\bin\RTM.dll.config
+C:\Users\imri\Downloads\RTM\RTM\MvcApplication1\bin\RTM.dll
+C:\Users\imri\Downloads\RTM\RTM\MvcApplication1\bin\RTM.pdb
+C:\Users\imri\Downloads\RTM\RTM\MvcApplication1\obj\Debug\RTM.dll
+C:\Users\imri\Downloads\RTM\RTM\MvcApplication1\obj\Debug\RTM.pdb

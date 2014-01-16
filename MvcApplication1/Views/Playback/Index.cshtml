@@ -1,0 +1,79 @@
+﻿@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/_LayoutPage.cshtml";
+}
+@section JavaScript
+{
+    <script src="//code.jquery.com/jquery-latest.min.js" type="text/javascript"></script>
+    <style type="text/css">
+        .mouseObject
+        {
+            position:absolute;
+            width:10px;
+            height:16px;
+        }
+    </style>
+    <script type="text/javascript">
+        function RefreshPlayback() {
+            $.getJSON('@Url.Action("Pull", "Recordings", new { Location = "http://stackoverflow.com/questions/1933934/injecting-javascript-to-website-using-fiddler" })', function (recordings) {
+                $.each(recordings, function (i, recording) {
+                    var mouse = MouseCollection.GetMouse(recording.UID);
+                    mouse.Set(recording.MouseX, recording.MouseY, recording.IsClicked);
+                    if (!mouse.MouseObject) {
+                        var mouseObject = $('<img>').attr('src', '/Content/Images/mouse.png').addClass('mouseObject');
+                        mouseObject.appendTo(document.body);
+                        mouse.MouseObject = mouseObject;
+                    }
+                    mouse.MouseObject.css({
+                        left: mouse.MouseX + 'px',
+                        top: mouse.MouseY + 'px'
+                    });
+                });
+            });
+        }
+
+        window.setInterval(RefreshPlayback, 100);
+
+        var MouseCollection = (function(){
+            var Mouses = [];
+
+            function CreateMouse (UID) {
+                var mouse = new Mouse(UID);
+
+                Mouses.push(mouse);
+
+                return mouse;
+            };
+
+            var GetMouse = function (UID) {
+                for (var i = 0; i < Mouses.length; i++) {
+                    if (Mouses[i].UID === UID) {
+                        return Mouses[i];
+                    }
+                }
+
+                return CreateMouse(UID);
+            };
+
+            return {
+                GetMouse: GetMouse
+            };
+
+        })();
+
+        var Mouse = function (UID) {
+            this.UID = UID;
+            this.MouseX = 0;
+            this.MouseY = 0;
+            this.IsClicked = 0;
+            this.MouseObject = null;
+        };
+
+        Mouse.prototype.Set = function (MouseX, MouseY, IsClicked) {
+            this.MouseX = MouseX;
+            this.MouseY = MouseY;
+            this.IsClicked = IsClicked;
+        };
+
+    </script>
+}
