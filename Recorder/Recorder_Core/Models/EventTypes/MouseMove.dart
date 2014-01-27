@@ -1,4 +1,4 @@
-library EventTypes;
+part of EventTypes;
 
 class MouseMove
 {

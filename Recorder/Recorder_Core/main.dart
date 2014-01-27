@@ -1,5 +1,5 @@
-import "Listeners/MouseMoveListener.dart";
-import "Observers/EventObserver.dart";
+import "Libraries/ListenersLib.dart";
+import 'Observers/EventObserver.dart';
 
 void main()
 {
@@ -7,5 +7,6 @@ void main()
   MouseMoveListener mouseMoveListener = new MouseMoveListener(eventObserver);
   mouseMoveListener.AttachEvent();
   
-
+  FocusListener focusListener = new FocusListener(eventObserver);
+  focusListener.AttachEvent();
 }

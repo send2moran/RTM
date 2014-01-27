@@ -1,4 +1,5 @@
 library Observers;
+import "dart:html";
 
 class EventObserver
 {
@@ -12,6 +13,7 @@ class EventObserver
   void AddEvent(Object event)
   {
     _Events.add(event);
-    print(event);
+    
+    window.console.log(event);
   }
 }

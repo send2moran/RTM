@@ -1,7 +1,4 @@
-library EventTypes;
-
-import "../XPath.dart";
-import "ITargetBased.dart";
+part of EventTypes;
 
 class KeyUp implements ITargetBased
 {

@@ -1,6 +1,4 @@
-library EventTypes;
-
-import "../XPath.dart";
+part of EventTypes;
 
 abstract class ITargetBased
 {

@@ -1,9 +1,4 @@
-library Listeners;
-
-import "dart:html";
-import "IListener.dart";
-import "../Observers/EventObserver.dart";
-import "../Models/EventTypes/MouseMove.dart";
+part of Listeners;
 
 class MouseMoveListener implements IListener 
 {
@@ -20,9 +15,9 @@ class MouseMoveListener implements IListener
 
   void _eventHandler(MouseEvent e) {
     MouseMove mouseMoveType = new MouseMove();
-    
-    mouseMoveType.X = e.clientX + document.body.scrollLeft;
-    mouseMoveType.Y = e.clientY + document.body.scrollTop;
+
+    mouseMoveType.X = e.client.x + document.body.scrollLeft;
+    mouseMoveType.Y = e.client.y + document.body.scrollTop;
     
     _eventObserver.AddEvent(mouseMoveType);
   }

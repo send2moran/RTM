@@ -1,7 +1,4 @@
-library Listeners;
-
-import "dart:html";
-import "../Observers/EventObserver.dart";
+part of Listeners;
 
 abstract class IListener
 {
