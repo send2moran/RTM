@@ -1,0 +1,5 @@
+name: RTM_Recorder
+author: RTM Team
+description: A sample application
+dependencies:
+  browser: any

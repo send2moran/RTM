@@ -1,5 +1,6 @@
 library Observers;
 import "dart:html";
+import "../Libraries/EventTypesLib.dart";
 
 class EventObserver
 {
@@ -14,6 +15,11 @@ class EventObserver
   {
     _Events.add(event);
     
-    window.console.log(event);
+    //window.console.log(event);
+    if(event is MouseMove){
+      print('${event.Y} | ${event.X} ');
+    }else{
+      print(event);
+    }
   }
 }
