@@ -4,9 +4,12 @@ import 'Observers/EventObserver.dart';
 void main()
 {
   EventObserver eventObserver = new EventObserver();
-  MouseMoveListener mouseMoveListener = new MouseMoveListener(eventObserver);
-  mouseMoveListener.AttachEvent();
+  List<IListener> listeners = [
+    new MouseMoveListener(eventObserver),
+    new FocusListener(eventObserver),
+    new MouseOverListener(eventObserver),
+    new MouseOutListener(eventObserver)    
+  ];
   
-  FocusListener focusListener = new FocusListener(eventObserver);
-  focusListener.AttachEvent();
+  listeners.forEach((l) => l.AttachEvent());
 }

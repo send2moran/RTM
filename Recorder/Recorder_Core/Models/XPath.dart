@@ -9,6 +9,11 @@ class XPath
     _sections = new List<int>();
   }
   
+  XPath.fromSections(List<int> sections)
+  {
+    _sections = sections;
+  }
+  
   void addPathIndex(int index)
   {
     _sections.add(index);
@@ -33,5 +38,20 @@ class XPath
     }
     
     return true;
+  }
+  
+  @override
+  String toString()
+  {
+    return Strings.join(_sections.map((s) => s.toString()), '/');
+  }
+  
+  static XPath fromString(String xPathString)
+  {
+    List<String> sectionsString = xPathString.split('/');
+    List<int> sections = new List<int>();
+    sectionsString.forEach((s) => sections.add(int.parse(s)));
+
+    return new XPath.fromSections(sections);
   }
 }

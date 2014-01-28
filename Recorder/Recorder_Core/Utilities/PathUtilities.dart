@@ -7,9 +7,9 @@ class PathUtilities
 {
    static XPath getPath(Element el)
   {
-     if(el.XPath != null && el.XPath is XPath)
+     if(el.attributes["XPath"] != null)
      {
-       return el.XPath;
+       return XPath.fromString(el.attributes["XPath"]);
      }
      
     XPath xPath = new XPath();
@@ -19,7 +19,7 @@ class PathUtilities
       el = el.parentNode;
     }
     
-    el.XPath = xPath;
+    el.attributes["XPath"] = xPath.toString();
     
     return xPath;
   }

@@ -16,7 +16,7 @@ class MouseMoveListener implements IListener
   }
 
   void _eventHandler(MouseEvent e) {
-    DateTime currentMouseMoveDate = new DateTime().now();
+    DateTime currentMouseMoveDate = new DateTime.now();
     
     if(_lastMouseMoveDate != null && _lastMouseMoveDate.difference(currentMouseMoveDate).inMilliseconds <= MOUSE_WAIT_INTERVAL)
       return;
