@@ -1,5 +1,14 @@
+<<<<<<< HEAD
 name: RTM_Recorder
 author: RTM Team
 description: A sample application
 dependencies:
   browser: any
+=======
+name:  sample_pubspec
+description:  A sample application
+
+#dependencies:
+#  js: any
+#  unittest: any
+>>>>>>> Added events, Changed file names, Broke recorder

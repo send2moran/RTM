@@ -15,8 +15,7 @@ class EventObserver
   {
     _Events.add(event);
     
-    //window.console.log(event);
-    if(event is MouseMove){
+    if(event is MouseMoveEventType){
       print('${event.Y} | ${event.X} ');
     }else{
       print(event);

@@ -1,6 +1,6 @@
 part of EventTypes;
 
-class MouseMove
+class MouseMoveEventType
 {
   int X;
   int Y;

@@ -3,10 +3,10 @@ file:///C:/Users/imri/Documents/GitHub/RTM/Recorder/Recorder_Core/Libraries/List
 file:///C:/Users/imri/Documents/GitHub/RTM/Recorder/Recorder_Core/Listeners/FocusListener.dart
 file:///C:/Users/imri/Documents/GitHub/RTM/Recorder/Recorder_Core/Listeners/IListener.dart
 file:///C:/Users/imri/Documents/GitHub/RTM/Recorder/Recorder_Core/Listeners/MouseMoveListener.dart
-file:///C:/Users/imri/Documents/GitHub/RTM/Recorder/Recorder_Core/Models/EventTypes/Focus.dart
-file:///C:/Users/imri/Documents/GitHub/RTM/Recorder/Recorder_Core/Models/EventTypes/ITargetBased.dart
-file:///C:/Users/imri/Documents/GitHub/RTM/Recorder/Recorder_Core/Models/EventTypes/KeyUp.dart
-file:///C:/Users/imri/Documents/GitHub/RTM/Recorder/Recorder_Core/Models/EventTypes/MouseMove.dart
+file:///C:/Users/imri/Documents/GitHub/RTM/Recorder/Recorder_Core/Models/EventTypes/FocusEventType.dart
+file:///C:/Users/imri/Documents/GitHub/RTM/Recorder/Recorder_Core/Models/EventTypes/ITargetBasedEvent.dart
+file:///C:/Users/imri/Documents/GitHub/RTM/Recorder/Recorder_Core/Models/EventTypes/KeyUpEventType.dart
+file:///C:/Users/imri/Documents/GitHub/RTM/Recorder/Recorder_Core/Models/EventTypes/MouseMoveEventType.dart
 file:///C:/Users/imri/Documents/GitHub/RTM/Recorder/Recorder_Core/Models/XPath.dart
 file:///C:/Users/imri/Documents/GitHub/RTM/Recorder/Recorder_Core/Observers/EventObserver.dart
 file:///C:/Users/imri/Documents/GitHub/RTM/Recorder/Recorder_Core/Utilities/PathUtilities.dart

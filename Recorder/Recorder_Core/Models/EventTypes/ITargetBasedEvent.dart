@@ -1,6 +1,6 @@
 part of EventTypes;
 
-abstract class ITargetBased
+abstract class ITargetBasedEventType
 {
   XPath Target;
 }

@@ -1,6 +1,6 @@
 part of EventTypes;
 
-class KeyUp implements ITargetBased
+class KeyUpEventType implements ITargetBasedEventType
 {
   XPath Target;
   String Key;

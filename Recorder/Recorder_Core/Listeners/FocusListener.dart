@@ -14,9 +14,9 @@ class FocusListener implements IListener
   }
 
   void _eventHandler(FocusEvent e) {
-    Focus focusType = new Focus();
-    focusType.Target =  PathUtilities.getPath(e.target);
+    FocusEventType focusEventType = new FocusEventType();
+    focusEventType.Target =  PathUtilities.getPath(e.target);
     
-    _eventObserver.AddEvent(focusType);
+    _eventObserver.AddEvent(focusEventType);
   }
 }

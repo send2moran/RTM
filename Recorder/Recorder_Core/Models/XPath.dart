@@ -18,4 +18,20 @@ class XPath
   {
     _sections.forEach(handler);
   }
+  
+  bool compareTo(XPath xPath)
+  {
+    if(_sections.length != xPath._sections.length)
+      return false;
+    
+    for(int i=0;i<_sections.length; i++)
+    {
+      if(_sections[i] != xPath._sections[i])
+      {
+        return false;
+      }
+    }
+    
+    return true;
+  }
 }
